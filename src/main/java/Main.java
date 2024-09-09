@@ -126,7 +126,7 @@ int handsDone=0;
 
       if(answer.equalsIgnoreCase("Double")){
           if(money==0){
-            System.out.println("Nice try poor boy");
+            System.out.println("You cannot do that");
           }
           else{
             money-=10;
