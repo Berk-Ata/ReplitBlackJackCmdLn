@@ -1,3 +1,6 @@
+# IntelliJ temporary folder
+.idea/
+
 # Compiled class file
 *.class
 
